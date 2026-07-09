@@ -38,11 +38,23 @@
 
 
 .conference-photo{
-    background-image: url(./assets/banner.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)) , url(./assets/banner.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 650px;
+    margin: 30px;
+    gap: 150px;                  
+}  
+
+
+
+.main-content{
+    color: white;
+    text-align: center;
+    justify-content: center;
 }
-
-
-
 
 
 
