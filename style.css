@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.Navigation-bar{
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+    align-items: center;
+    padding: 15px 10%;
+}
+
+
+.arrange-type{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    color: #535353;
+}
+
+
+.register button{
+   background-color:#0746f3 ;
+   color: white;
+   height: 35px;
+   width: 130px;
+   border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+.conference-photo{
+    background-image: url(./assets/banner.jpg);
+}
+
+
+
+
+
+
+
+
+
+
