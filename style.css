@@ -198,3 +198,41 @@
 ul li::marker {
     color: #0746f3;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-section{
+    background-color:rgb(149, 147, 235);
+    margin: 20px 100px;
+    padding: 25px 50px;
+    height: 150px;
+    
+}
+
+
+.footer-icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto 50px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 30px;
+}
